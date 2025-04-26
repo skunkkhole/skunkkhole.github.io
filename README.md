@@ -2,8 +2,6 @@
 
 Hello World!
 
-</ hr>
-
 ## Likes and Links
 
   - [blah blah blah](https://github.com/skunkkhole)
